@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying software engineering at the UFG.
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT.
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT and PYTHON.
 
 <br><br>
 
